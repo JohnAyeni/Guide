@@ -1,0 +1,213 @@
+--- Comment
+    --- CONSIDER ---
+        Code to be debated on its usefulness.
+
+    --- CLEAN UP ---
+        Code to be made legible and visually aesthetic.
+
+    --- NOTE ---
+        Further description on code.
+
+    --- UPDATE REQUIRED ---
+        Code requiring update as-soon-as-possible.
+
+    --- WARN ---
+        Code to keep an eye on.
+
+--- Plain Text
+    --- Comment
+    
+    # Header
+
+    ## Sub-Header
+
+    ### Level 3 Header
+
+    #### Level 4 Header
+
+    ##### Level 5 Header
+
+    ###### Level 6 Header
+
+    - List Item
+
+    "data, identifier, object, variable and so on."
+
+--- CSS
+    /* CSS At-Rules */
+    
+    /* HTML Elements */
+    
+    /* Assets */
+    
+    /* Components */
+    
+    /* Pseudo */
+
+    /* Comment Title */
+        /* Selector 1, Selector 2 */
+        selector1,
+        selector2 {
+            /* --- NOTE ---
+                    Comment at the top.
+
+                    The selectors' properties are written in lexicographic order.
+            */
+        }
+            /* States */
+                /* State */
+
+            /* Description of @cssAtRule */
+
+            /* Child Selector */
+
+--- HTML
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <!-- Document Character Encoding Metadata -->
+        <meta charset="UTF-8">
+        
+        <!-- Document http-equiv Compatibility Metadata -->
+        <meta content="chrome=1, IE=Edge" http-equiv="X-UA-Compatible">
+        
+        <!-- Document Viewport Metadata -->
+        <meta
+            content="
+                height=device-height,
+                initial-scale=1.0,
+                maximum-scale=2.0,
+                minimal-ui,
+                minimum-scale=0.1,
+                user-scalable=no,
+                width=device-width"
+            target-densitydpi="92dpi"
+            name="viewport">
+        
+        <!-- Miscellaneous Metadata -->
+            <!-- Author -->
+            <meta content="" name="author">
+
+
+        <!-- Imports -->
+            <!-- External Import -->
+            <link href="" rel="" type="">
+
+            <!-- Document Import -->
+            <link href="" rel="" type="">
+
+        <!-- Stylesheets -->
+            <!-- External Stylesheet -->
+            <link href="" media="" rel="stylesheet" type="text/css">
+
+            <!-- Dependency Stylesheet -->
+            <link href="" media="" rel="stylesheet" type="text/css">
+
+            <!-- Base Stylesheet -->
+            <link href="" media="" rel="stylesheet" type="text/css">
+
+            <!-- Document Stylesheet -->
+            <link href="" media="" rel="stylesheet" type="text/css">
+
+            <!-- Document Stylesheet -->
+            <style media="" rel="stylesheet" type="text/css">
+                /* Comment Title */
+            </style>
+
+        <!-- Document Title -->
+        <title> Document Title </title>
+    </head>
+
+    <body>
+        <!-- Comment Title -->
+        <header id="identification">
+        </header>
+
+        <!-- Comment Title -->
+        <main>
+            <!-- Main Content -->
+            <article id="identification">
+            </article>
+        </main>
+
+        <!-- Comment Title -->
+        <aside id="identification">
+        </aside>
+
+        <!-- Comment Title -->
+        <footer id="identification">
+        </footer>    
+
+        <!-- External Script -->
+        <script language="javascript" src="" type="text/javascript"> </script>
+
+        <!-- Dependency Script -->
+        <script language="javascript" src="" type="text/javascript"> </script>
+        
+        <!-- Base Script -->
+        <script language="javascript" src="" type="text/javascript"> </script>
+      
+        <!-- Document Script -->
+        <script language="javascript" src="" type="text/javascript"> </script>
+
+        <!-- Document Script -->
+        <script language="javascript" type="text/javascript">
+            /* Comment Title */
+                // Comment Action
+        </script>
+    </body>
+
+    </html>
+
+--- Javascript
+    /* Comment Title */
+        // Instauration
+
+        // Adjacent Instauration
+
+        // Modification
+            // Index
+            for (), while()
+
+            // Logic
+                /* If
+                        "conditionA"
+                            and
+                        "conditionB"
+
+                    else if
+                        "conditionC"
+                            or
+                        "conditionD"
+
+                    else if
+                        not "conditionE"
+
+                    else
+
+                */
+                if (conditionA && conditionB)
+                else if (conditionC || conditionD)
+                else if (!conditionE)
+                else {
+                    // Some code here…
+                    // Do nothing…
+                    // Do something…
+                }
+
+        // Insertion
+
+        // Children
+
+        // Style
+
+        // Function
+
+        // Print
+
+        // Reset
+
+        // Correction
+
+        // Deletion
