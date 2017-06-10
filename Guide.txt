@@ -63,7 +63,8 @@
 
 --- HTML
     <!DOCTYPE html>
-    <html>
+    <!-- Language Type with the html tag-->
+    <html lang="en">    
 
     <head>
         <!-- Document Character Encoding Metadata -->
